@@ -156,25 +156,24 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ####🎯 Current Focus
 
-```yaml
-learning:
-  - Python for Data Analysis (Pandas & NumPy)
-  - SQL for Data Analysis
-  - Microsoft Excel (Advanced Functions, Pivot Tables & Dashboards)
-  - Data Cleaning & Exploratory Data Analysis (EDA)
+### 🎯 Current Focus & Roadmap
 
-building:
-  - End-to-End E-Commerce Customer Analytics Dashboard
-  - Automated Python Data Cleaning Framework
+> [!NOTE]
+> **🧠 Learning & Skills**
+> * **Python Analytics:** Deep diving into `Pandas` and `NumPy` for data manipulation
+> * **SQL & Databases:** Complex joins, aggregations, and query optimization
+> * **Microsoft Excel:** Advanced formulas, Pivot Tables, and dynamic dashboards
+> * **Core EDA:** Meticulous data cleaning workflows and statistical analysis
 
-exploring:
-  - BigQuery & Cloud Data Analytics
-  - Power BI Dashboards & Data Modeling
+> [!IMPORTANT]
+> **🛠️ Active Projects**
+> * 🛒 **E-Commerce Customer Analytics Dashboard:** End-to-end customer metrics & dynamic KPIs
+> * 🧹 **Automated Data Cleaning Framework:** Modular Python scripts for handling missing data & outliers
 
-open_to:
-  - Remote Data Analyst Internships
-  - Open-Source Data Analytics Collaboration
-```
+> [!TIP]
+> **💼 Opportunities & Collaboration**
+> * 🎯 **Open To:** Remote Data Analyst Internships & Junior Data Analyst positions
+> * 🤝 **Collaborating On:** Open-source data analytics & EDA benchmark projects
 
 ## 📡 Connect With Me
 
