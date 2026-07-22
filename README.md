@@ -59,7 +59,6 @@ Motivated and detail-oriented aspiring Data Analyst currently pursuing a Bachelo
 📊 Business Intelligence, Data Wrangling & IDEs
 Note: Specialized in Excel (Data Cleaning, Formulas, Pivot Tables, Charts, Sorting & Filtering) and Power BI basics.
 ```
----
 
 ### 📐 Technical Capabilities & Methodologies
 
@@ -74,13 +73,14 @@ Note: Specialized in Excel (Data Cleaning, Formulas, Pivot Tables, Charts, Sorti
 
 ```text
 
----
 
 💼 Education & Internship Status
 🎓 Education
 Bachelor of Science in Computer Science — University of the People (Currently Pursuing)
 
 Higher Secondary Certificate (12th) — Completed in 2021
+
+---
 
 🚀 Status
 Availability: Immediate Joiner | Available for Remote Internship
