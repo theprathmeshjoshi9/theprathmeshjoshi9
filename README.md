@@ -127,12 +127,10 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=theprathmeshjoshi9&show_icons=true&theme=synthwave&hide_border=true&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprathmeshjoshi9&theme=synthwave&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF" width="48%" />
-
-  <br/><br/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprathmeshjoshi9&layout=compact&theme=synthwave&hide_border=true&title_color=9D4EDD&text_color=E0AAFF&bg_color=0D1117" width="48%" />
+
+</div>
 
 </div>
 
@@ -142,7 +140,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=theprathmeshjoshi9&theme=synthwave&column=6&margin-w=15&margin-h=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=theprathmeshjoshi9&theme=synthwave&no-frame=true&no-bg=true" alt="Prathmesh's GitHub Trophies" />
 
 </div>
 
@@ -160,9 +158,11 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 #### 🐍 Contribution Snake
 
+### 🐍 Contribution Snake
+
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/<YOUR-GITHUB-USERNAME>/<YOUR-GITHUB-USERNAME>/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/theprathmeshjoshi9/theprathmeshjoshi9/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
 </div>
 
