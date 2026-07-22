@@ -1,4 +1,4 @@
-## Hey! I'm Prathmesh Joshi 👋
+# Hey! 👋
 
 <div align="center">
 
@@ -27,9 +27,8 @@
 
 ---
 
-### 👤 About Me
+##👤 About Me
 
-```text
 ========================================================================================
 NAME          : Prathmesh Joshi
 ROLE          : Aspiring Data Analyst / Data Analyst Intern
@@ -46,7 +45,8 @@ Motivated and detail-oriented aspiring Data Analyst currently pursuing a Bachelo
 🎯 Open To: Remote Data Analyst Internships, Junior Data Analyst positions
 🤝 Collaboration: Open for open-source data analytics, SQL optimization, and EDA benchmark projects
 
-🔄 Data Analytics Workflow Pipeline
+
+## 🔄 Data Analytics Workflow Pipeline
 
 ┌─────────────────┐     ┌──────────────────┐     ┌───────────────────┐     ┌───────────────────┐
 │  DATA SOURCES   │ ──> │ DATA WRANGLING   │ ──> │ EXPLORATORY (EDA) │ ──> │  INSIGHTS & BI    │
@@ -54,13 +54,13 @@ Motivated and detail-oriented aspiring Data Analyst currently pursuing a Bachelo
 │  & Raw Schemas  │     │ Cleaning Pipelines│    │ Correlations      │     │ Executive Reports │
 └─────────────────┘     └──────────────────┘     └───────────────────┘     └───────────────────┘
 
-💻 Tech Stack
-⚙️ Languages & Core Analytics
-📊 Business Intelligence, Data Wrangling & IDEs
-Note: Specialized in Excel (Data Cleaning, Formulas, Pivot Tables, Charts, Sorting & Filtering) and Power BI basics.
-```
+## 💻 Tech Stack
+### ⚙️ Languages & Core Analytics
+### 📊 Business Intelligence, Data Wrangling & IDEs
 
-### 📐 Technical Capabilities & Methodologies
+Note: Specialized in Excel (Data Cleaning, Formulas, Pivot Tables, Charts, Sorting & Filtering) and Power BI basics.
+
+#### 📐 Technical Capabilities & Methodologies
 
 | Domain / Framework | Proficiency | Key Details & Technical Tools |
 | :--- | :--- | :--- |
@@ -71,10 +71,9 @@ Note: Specialized in Excel (Data Cleaning, Formulas, Pivot Tables, Charts, Sorti
 | **CRISP-DM Cycle** | **Applied** | Structured problem framing & end-to-end analytics lifecycle |
 | **Business Intelligence** | **Intermediate** | Basic `Power BI` dashboarding, dynamic KPI cards, reporting |
 
-```text
 
+#### 💼 Education & Internship Status
 
-💼 Education & Internship Status
 🎓 Education
 Bachelor of Science in Computer Science — University of the People (Currently Pursuing)
 
@@ -82,18 +81,17 @@ Higher Secondary Certificate (12th) — Completed in 2021
 
 ---
 
-🚀 Status
+####🚀 Status
 Availability: Immediate Joiner | Available for Remote Internship
 
 Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
-```
 
-🏆 Strengths & Soft Skills
+### 🏆 Strengths & Soft Skills
 
 <div align="center">
 
-### 🏆 Core Attributes & Competencies
+#### 🏆 Core Attributes & Competencies
 
 | Core Attribute | Competency Highlight |
 | :--- | :--- |
@@ -111,7 +109,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 <div align="center">
 
-### 🗣️ Languages Known
+#### 🗣️ Languages Known
 
 | Language | Proficiency Level | Badge |
 | :--- | :--- | :--- |
@@ -123,7 +121,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-### 📊 Coding & Analytics Profiles
+#### 📊 Coding & Analytics Profiles
 
 <div align="center">
 
@@ -141,7 +139,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-### 📈 GitHub Analytics & Coding Activity
+#### 📈 GitHub Analytics & Coding Activity
 
 <div align="center">
 
@@ -157,7 +155,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-### 🏆 GitHub Trophies
+#### 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -167,7 +165,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-### 📉 Contribution Activity Graph
+#### 📉 Contribution Activity Graph
 
 <div align="center">
 
@@ -177,7 +175,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-### 🐍 Contribution Snake
+#### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -187,7 +185,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-### 🎯 Current Focus
+####🎯 Current Focus
 
 ```yaml
 learning:
@@ -207,6 +205,7 @@ exploring:
 open_to:
   - Remote Data Analyst Internships
   - Open-Source Data Analytics Collaboration
+```
 
 ## 📡 Connect With Me
 
