@@ -1,5 +1,7 @@
 # Hey! 👋
 
+---
+
 <div align="center">
 
   <!-- 1. Animated Header Section -->
@@ -9,6 +11,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vcenter=true&width=700&lines=Aspiring+Data+Analyst+%7C+CS+Undergrad;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Exploratory+Data+Analysis+%2B+Data+Cleaning;Transforming+Raw+Data+into+Business+Insights" alt="Typing SVG" />
   </a>
 
+  ---
+
   <br/><br/>
 
   <!-- Direct Contact & Profile Badges -->
@@ -16,6 +20,8 @@
   <a href="tel:+917620982471"><img src="https://img.shields.io/badge/Phone-+91_7620982471-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/prathmesh-joshi-1b1952422"><img src="https://img.shields.io/badge/LinkedIn-Prathmesh_Joshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/theprathmeshjoshi9/"><img src="https://img.shields.io/badge/Instagram-@theprathmeshjoshi9-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+
+  ---
 
   <br/><br/>
 
@@ -55,7 +61,7 @@
   </tr>
 </table>
 
-### 🔄 Data Analytics Workflow Pipeline
+---
 
 ### 🔄 Data Analytics Workflow Pipeline
 
@@ -68,6 +74,8 @@
 <div align="center">
   <b><code>[ Data Ingestion ]</code> ➔ <code>[ Cleaning & Structuring ]</code> ➔ <code>[ Statistical EDA ]</code> ➔ <code>[ Executive Insights ]</code></b>
 </div>
+
+---
 
 ### 💻 Tech Stack
 ### ⚙️ Languages & Core Analytics
@@ -86,28 +94,28 @@ Note: Specialized in Excel (Data Cleaning, Formulas, Pivot Tables, Charts, Sorti
 | **CRISP-DM Cycle** | **Applied** | Structured problem framing & end-to-end analytics lifecycle |
 | **Business Intelligence** | **Intermediate** | Basic `Power BI` dashboarding, dynamic KPI cards, reporting |
 
+---
 
 ### 💼 Education & Internship Status
 
-🎓 Education
+### 🎓 Education
 Bachelor of Science in Computer Science — University of the People (Currently Pursuing)
 
 Higher Secondary Certificate (12th) — Completed in 2021
 
 ---
 
-####🚀 Status
+### 🚀 Status
 Availability: Immediate Joiner | Available for Remote Internship
 
 Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
+---
 
 ### 🏆 Strengths & Soft Skills
 
 <div align="center">
-
-#### 🏆 Core Attributes & Competencies
-
+  
 | Core Attribute | Competency Highlight |
 | :--- | :--- |
 | **Analytical Thinking** | Deconstructs complex business questions into systematic analytical steps |
@@ -122,9 +130,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-<div align="center">
-
-#### 🗣️ Languages Known
+### 🗣️ Languages Known
 
 | Language | Proficiency Level | Badge |
 | :--- | :--- | :--- |
@@ -136,7 +142,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-#### 📈 GitHub Analytics & Coding Activity
+### 📈 GitHub Analytics & Coding Activity
 
 <div align="center">
 
@@ -146,7 +152,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-#### 📉 Contribution Activity Graph
+### 📉 Contribution Activity Graph
 
 <div align="center">
 
@@ -156,7 +162,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-####🎯 Current Focus
+###🎯 Current Focus
 
 ### 🎯 Current Focus & Roadmap
 
@@ -177,7 +183,9 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 > * 🎯 **Open To:** Remote Data Analyst Internships & Junior Data Analyst positions
 > * 🤝 **Collaborating On:** Open-source data analytics & EDA benchmark projects
 
-## 📡 Connect With Me
+---
+
+### 📡 Connect With Me
 
 
 
