@@ -29,6 +29,7 @@
 
 ##👤 About Me
 
+```
 ========================================================================================
 NAME          : Prathmesh Joshi
 ROLE          : Aspiring Data Analyst / Data Analyst Intern
@@ -44,15 +45,16 @@ Motivated and detail-oriented aspiring Data Analyst currently pursuing a Bachelo
 
 🎯 Open To: Remote Data Analyst Internships, Junior Data Analyst positions
 🤝 Collaboration: Open for open-source data analytics, SQL optimization, and EDA benchmark projects
-
+```
 
 ## 🔄 Data Analytics Workflow Pipeline
-
+```
 ┌─────────────────┐     ┌──────────────────┐     ┌───────────────────┐     ┌───────────────────┐
 │  DATA SOURCES   │ ──> │ DATA WRANGLING   │ ──> │ EXPLORATORY (EDA) │ ──> │  INSIGHTS & BI    │
 │  CSV, SQL, APIs │     │ Pandas, SQL, Data│     │ Distributions,    │     │ Dashboards, KPIs, │
 │  & Raw Schemas  │     │ Cleaning Pipelines│    │ Correlations      │     │ Executive Reports │
 └─────────────────┘     └──────────────────┘     └───────────────────┘     └───────────────────┘
+```
 
 ## 💻 Tech Stack
 ### ⚙️ Languages & Core Analytics
