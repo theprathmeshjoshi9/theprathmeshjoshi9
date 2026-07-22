@@ -19,9 +19,9 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=<YOUR-GITHUB-USERNAME>&style=flat-square&color=7B2CBF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/<YOUR-GITHUB-USERNAME>?label=Followers&style=flat-square&color=9D4EDD" />
-  <img src="https://img.shields.io/github/stars/<YOUR-GITHUB-USERNAME>?label=Stars&style=flat-square&color=C77DFF" />
+  <img src="https://komarev.com/ghpvc/?username=<theprathmeshjoshi9>&style=flat-square&color=7B2CBF" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/<theprathmeshjoshi9>?label=Followers&style=flat-square&color=9D4EDD" />
+  <img src="https://img.shields.io/github/stars/<theprathmeshjoshi9>?label=Stars&style=flat-square&color=C77DFF" />
 
 </div>
 
