@@ -57,15 +57,17 @@
 
 ### 🔄 Data Analytics Workflow Pipeline
 
-```mermaid
-flowchart LR
-    A["📁 <b>DATA SOURCES</b><br/><sub>CSV • SQL • APIs • Schemas</sub>"] --> B["🧹 <b>DATA WRANGLING</b><br/><sub>Pandas • SQL • Cleaning</sub>"]
-    B --> C["🔍 <b>EXPLORATORY (EDA)</b><br/><sub>Distributions • Correlations</sub>"]
-    C --> D["📊 <b>INSIGHTS & BI</b><br/><sub>Dashboards • KPIs • Reports</sub>"]
+### 🔄 Data Analytics Workflow Pipeline
 
-    classDef step fill:#0D1117,stroke:#9D4EDD,stroke-width:2px,color:#ffffff;
-    class A,B,C,D step;
-```
+| Step 1 | Step 2 | Step 3 | Step 4 |
+| :---: | :---: | :---: | :---: |
+| 📁 **DATA SOURCES** | 🧹 **DATA WRANGLING** | 🔍 **EXPLORATORY (EDA)** | 📊 **INSIGHTS & BI** |
+| ![CSV/SQL](https://img.shields.io/badge/Raw_Data-7B2CBF?style=flat-square) | ![Cleaning](https://img.shields.io/badge/Pipeline-9D4EDD?style=flat-square) | ![EDA](https://img.shields.io/badge/Analysis-C77DFF?style=flat-square) | ![Dashboards](https://img.shields.io/badge/Reporting-E0AAFF?style=flat-square&logoColor=black) |
+| CSV, SQL Databases<br/>APIs & Raw Schemas | Pandas, SQL Transformations<br/>Data Cleaning Pipelines | Statistical Distributions<br/>Correlation Analysis | Interactive Dashboards<br/>KPIs & Executive Reports |
+
+<div align="center">
+  <b><code>[ Data Ingestion ]</code> ➔ <code>[ Cleaning & Structuring ]</code> ➔ <code>[ Statistical EDA ]</code> ➔ <code>[ Executive Insights ]</code></b>
+</div>
 
 ### 💻 Tech Stack
 ### ⚙️ Languages & Core Analytics
