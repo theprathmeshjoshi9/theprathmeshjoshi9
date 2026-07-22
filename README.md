@@ -156,18 +156,6 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-#### 🐍 Contribution Snake
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/theprathmeshjoshi9/theprathmeshjoshi9/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-
-</div>
-
----
-
 ####🎯 Current Focus
 
 ```yaml
