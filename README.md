@@ -123,24 +123,6 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 ---
 
-#### 📊 Coding & Analytics Profiles
-
-<div align="center">
-
-  <a href="https://www.hackerrank.com">
-    <img src="https://img.shields.io/badge/HackerRank-SQL_Gold-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  <a href="https://leetcode.com">
-    <img src="https://img.shields.io/badge/LeetCode-Data_Structures-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.kaggle.com">
-    <img src="https://img.shields.io/badge/Kaggle-Datasets_&_Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-
-</div>
-
----
-
 #### 📈 GitHub Analytics & Coding Activity
 
 <div align="center">
