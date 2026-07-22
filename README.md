@@ -27,8 +27,6 @@
 
 ---
 
-##👤 About Me
-
 ### 👨‍💻 About Me
 
 <table>
@@ -56,40 +54,26 @@
     </td>
   </tr>
 </table>
-```
-========================================================================================
-NAME          : Prathmesh Joshi
-ROLE          : Aspiring Data Analyst / Data Analyst Intern
-EDUCATION     : B.S. Computer Science @ University of the People (Currently Pursuing)
-LOCATION      : Maharashtra, India
-EMAIL         : theprathmeshjoshi09work@gmail.com
-PHONE         : +91 7620982471
-LANGUAGES     : English, Hindi, Marathi
-AVAILABILITY  : Immediate Joiner | Remote Internships & Entry-Level Roles
-========================================================================================
 
-Motivated and detail-oriented aspiring Data Analyst currently pursuing a Bachelor of Science in Computer Science at the University of the People. Skilled in Microsoft Excel, SQL, and Python fundamentals with a strong interest in data analysis, data cleaning, and business insights. Quick learner with excellent analytical and problem-solving skills, seeking an opportunity to gain practical experience as a Remote Data Analyst Intern.
+### 🔄 Data Analytics Workflow Pipeline
 
-🎯 Open To: Remote Data Analyst Internships, Junior Data Analyst positions
-🤝 Collaboration: Open for open-source data analytics, SQL optimization, and EDA benchmark projects
+```mermaid
+flowchart LR
+    A["📁 <b>DATA SOURCES</b><br/><sub>CSV • SQL • APIs • Schemas</sub>"] --> B["🧹 <b>DATA WRANGLING</b><br/><sub>Pandas • SQL • Cleaning</sub>"]
+    B --> C["🔍 <b>EXPLORATORY (EDA)</b><br/><sub>Distributions • Correlations</sub>"]
+    C --> D["📊 <b>INSIGHTS & BI</b><br/><sub>Dashboards • KPIs • Reports</sub>"]
+
+    classDef step fill:#0D1117,stroke:#9D4EDD,stroke-width:2px,color:#ffffff;
+    class A,B,C,D step;
 ```
 
-## 🔄 Data Analytics Workflow Pipeline
-```
-┌─────────────────┐     ┌──────────────────┐     ┌───────────────────┐     ┌───────────────────┐
-│  DATA SOURCES   │ ──> │ DATA WRANGLING   │ ──> │ EXPLORATORY (EDA) │ ──> │  INSIGHTS & BI    │
-│  CSV, SQL, APIs │     │ Pandas, SQL, Data│     │ Distributions,    │     │ Dashboards, KPIs, │
-│  & Raw Schemas  │     │ Cleaning Pipelines│    │ Correlations      │     │ Executive Reports │
-└─────────────────┘     └──────────────────┘     └───────────────────┘     └───────────────────┘
-```
-
-## 💻 Tech Stack
+### 💻 Tech Stack
 ### ⚙️ Languages & Core Analytics
 ### 📊 Business Intelligence, Data Wrangling & IDEs
 
 Note: Specialized in Excel (Data Cleaning, Formulas, Pivot Tables, Charts, Sorting & Filtering) and Power BI basics.
 
-#### 📐 Technical Capabilities & Methodologies
+## 📐 Technical Capabilities & Methodologies
 
 | Domain / Framework | Proficiency | Key Details & Technical Tools |
 | :--- | :--- | :--- |
@@ -101,7 +85,7 @@ Note: Specialized in Excel (Data Cleaning, Formulas, Pivot Tables, Charts, Sorti
 | **Business Intelligence** | **Intermediate** | Basic `Power BI` dashboarding, dynamic KPI cards, reporting |
 
 
-#### 💼 Education & Internship Status
+### 💼 Education & Internship Status
 
 🎓 Education
 Bachelor of Science in Computer Science — University of the People (Currently Pursuing)
