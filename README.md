@@ -53,7 +53,7 @@
       <ul>
         <li>🎓 <b>Education:</b> B.S. Computer Science</li>
         <li>🏛️ <b>University:</b> Univ. of the People</li>
-        <li>📍 <b>Location:</b> Maharashtra, India</li>
+        <li>📍 <b>Location:</b> Pune, Maharashtra, India</li>
         <li>💼 <b>Status:</b> Immediate Joiner</li>
         <li>🗣️ <b>Languages:</b> English, Hindi, Marathi</li>
       </ul>
