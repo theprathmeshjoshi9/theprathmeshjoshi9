@@ -128,19 +128,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprathmeshjoshi9&theme=synthwave&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprathmeshjoshi9&layout=compact&theme=synthwave&hide_border=true&title_color=9D4EDD&text_color=E0AAFF&bg_color=0D1117" width="48%" />
-
-</div>
-
-</div>
-
----
-
-#### 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=theprathmeshjoshi9&theme=synthwave&no-frame=true&no-bg=true" alt="Prathmesh's GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprathmeshjoshi9&theme=synthwave&hide_border=true&title_color=9D4EDD&text_color=E0AAFF&bg_color=0D1117&langs_count=4" width="48%" />
 
 </div>
 
