@@ -127,13 +127,12 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR-GITHUB-USERNAME>&show_icons=true&theme=synthwave&hide_border=true&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR-GITHUB-USERNAME>&theme=synthwave&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theprathmeshjoshi9&show_icons=true&theme=synthwave&hide_border=true&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprathmeshjoshi9&theme=synthwave&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF" width="48%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR-GITHUB-USERNAME>&layout=compact&theme=synthwave&hide_border=true&title_color=9D4EDD&text_color=E0AAFF&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=<YOUR-GITHUB-USERNAME>&theme=synthwave&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprathmeshjoshi9&layout=compact&theme=synthwave&hide_border=true&title_color=9D4EDD&text_color=E0AAFF&bg_color=0D1117" width="48%" />
 
 </div>
 
@@ -143,7 +142,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=<YOUR-GITHUB-USERNAME>&theme=synthwave&column=6&margin-w=15&margin-h=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=theprathmeshjoshi9&theme=synthwave&column=6&margin-w=15&margin-h=15&no-bg=true" />
 
 </div>
 
@@ -153,7 +152,7 @@ Target Roles: Remote Data Analyst Intern / Junior Data Analyst
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR-GITHUB-USERNAME>&theme=react-dark&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=E0AAFF&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprathmeshjoshi9&theme=react-dark&bg_color=0D1117&color=9D4EDD&line=C77DFF&point=E0AAFF&hide_border=true" width="100%" />
 
 </div>
 
