@@ -29,6 +29,33 @@
 
 ##👤 About Me
 
+### 👨‍💻 About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👋 Hi, I'm Prathmesh Joshi</h3>
+      <p>Motivated and detail-oriented aspiring <b>Data Analyst</b> currently pursuing a <b>B.S. in Computer Science</b> at the <b>University of the People</b>.</p>
+      <p>Skilled in <b>Microsoft Excel, SQL, and Python</b> fundamentals with a strong focus on data cleaning, exploratory data analysis (EDA), and translating complex datasets into actionable business insights.</p>
+      <br/>
+      <ul>
+        <li>🎯 <b>Seeking:</b> Remote Data Analyst Internships & Junior Data Analyst Roles</li>
+        <li>🤝 <b>Open To Collaborate:</b> Open-source Data Analytics, SQL Optimization & EDA Benchmark Projects</li>
+        <li>⚡ <b>Core Focus:</b> Data Cleaning, Relational Databases & Business Intelligence</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h4>📌 Quick Overview</h4>
+      <ul>
+        <li>🎓 <b>Education:</b> B.S. Computer Science</li>
+        <li>🏛️ <b>University:</b> Univ. of the People</li>
+        <li>📍 <b>Location:</b> Maharashtra, India</li>
+        <li>💼 <b>Status:</b> Immediate Joiner</li>
+        <li>🗣️ <b>Languages:</b> English, Hindi, Marathi</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ```
 ========================================================================================
 NAME          : Prathmesh Joshi
